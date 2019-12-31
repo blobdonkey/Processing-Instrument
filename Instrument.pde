@@ -11,7 +11,7 @@ void setup() {
   fullScreen();
   //size(500,200);
   
-  piano = new Piano(0,100,width,height-200);
+  piano = new Piano(0,300,width,height-600);
 }
 
 void draw() {
